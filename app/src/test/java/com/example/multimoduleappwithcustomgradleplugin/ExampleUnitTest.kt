@@ -1,4 +1,4 @@
-package com.example.gradlemanagementmm
+package com.example.multimoduleappwithcustomgradleplugin
 
 import org.junit.Test
 

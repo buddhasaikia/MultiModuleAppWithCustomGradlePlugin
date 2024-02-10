@@ -1,4 +1,4 @@
-package com.example.gradlemanagementmm.ui.theme
+package com.example.multimoduleappwithcustomgradleplugin.ui.theme
 
 import android.app.Activity
 import android.os.Build

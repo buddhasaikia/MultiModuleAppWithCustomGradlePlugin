@@ -1,4 +1,4 @@
-package com.example.gradlemanagementmm.ui.theme
+package com.example.multimoduleappwithcustomgradleplugin.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

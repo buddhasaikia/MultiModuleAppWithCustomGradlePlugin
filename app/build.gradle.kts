@@ -7,10 +7,10 @@ plugins {
 }
 
 android {
-    namespace = "com.example.gradlemanagementmm"
+    namespace = "com.example.multimoduleappwithcustomgradleplugin"
 
     defaultConfig {
-        applicationId = "com.example.gradlemanagementmm"
+        applicationId = "com.example.multimoduleappwithcustomgradleplugin"
         versionCode = 1
         versionName = "1.0"
     }
