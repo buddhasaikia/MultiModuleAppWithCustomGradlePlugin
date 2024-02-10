@@ -10,9 +10,9 @@ android {
     namespace = "com.example.multimoduleappwithcustomgradleplugin"
 
     defaultConfig {
-        applicationId = "com.example.multimoduleappwithcustomgradleplugin"
-        versionCode = 1
-        versionName = "1.0"
+        applicationId = ProjectConfig.appId
+        versionCode = ProjectConfig.versionCode
+        versionName = ProjectConfig.versionName
     }
     buildFeatures {
         compose = true
